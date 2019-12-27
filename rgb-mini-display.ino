@@ -1,5 +1,6 @@
-// Adafruit_NeoMatrix example for single NeoPixel Shield.
-// Scrolls 'Howdy' across the matrix in a portrait (vertical) orientation.
+// Das Programm basiert auf dem Adafruit_NeoMatrix example for single NeoPixel Shield.
+// Es scrollt den in der Loop eingegebenen Text über die horizontal ausgerichtete Matrix.
+//
 //
 
 #include <Adafruit_GFX.h>
